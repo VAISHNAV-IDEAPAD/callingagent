@@ -1,0 +1,5 @@
+{
+  "framework": "nextjs",
+  "name": "callingagent",
+  "buildCommand": "npm run build"
+}
